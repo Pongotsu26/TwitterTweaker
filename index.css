@@ -31,3 +31,7 @@ button[aria-label="Grok actions"] {
 .css-175oi2r.r-1xpp3t0 {
   display: none;
 }
+
+.css-175oi2r.r-633pao.r-173mn98.r-6gpygo.r-1rtiivn.r-hvns9x.r-1jte41z.r-bnwqim.r-1s5hh6x[data-testid="GrokDrawer"] {
+  display: none;
+}

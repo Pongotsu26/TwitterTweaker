@@ -1,6 +1,6 @@
 {
   "name": "TwitterTweaker",
-  "version": "2025.8.3",
+  "version": "2025.11.9",
   "manifest_version": 3,
   "description": "Twitterの拡張",
   "content_scripts": [{
