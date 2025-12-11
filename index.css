@@ -32,6 +32,10 @@ button[aria-label="Grok actions"] {
   display: none;
 }
 
-.css-175oi2r.r-633pao.r-173mn98.r-6gpygo.r-1rtiivn.r-hvns9x.r-1jte41z.r-bnwqim.r-1s5hh6x[data-testid="GrokDrawer"] {
+div[data-testid="GrokDrawer"] {
+  display: none;
+}
+
+div[data-testid="chat-drawer-root"] {
   display: none;
 }
